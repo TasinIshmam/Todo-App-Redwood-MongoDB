@@ -1,6 +1,6 @@
-# Super Simple Todo-app with MongoDB and Redwood
+# Todo app demo with MongoDB and Redwood
 
-This is a demo to-do app to show how easy it is to get started with Redwood and MongoDB. The app was shown as a demo during RedwoodJS 1.0 Meetup, held in April 2022.
+This is a demo todo app to show how easy it is to get started with Redwood and MongoDB. The app was shown as a demo during RedwoodJS 1.0 Meetup, held in April 2022.
 
 - [Video of the presentation](https://www.youtube.com/watch?v=up96XkgFFGc&t=4675s)
 - [Skip to the demo](https://youtu.be/up96XkgFFGc?t=5024)
